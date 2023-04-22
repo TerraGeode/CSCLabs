@@ -1,0 +1,13 @@
+Sheldon Cooper 12356 3 24 1973
+Amy Farrah-Fowler 98765 12 12 1975
+Leonard Hofstadter 18191 4 30 1975
+Howard Wolowitz 70010 12 9 1980
+Penny Hofstadter 19029 11 30 1985
+Bernadette Rostenkowski 89981 6 23 1980
+Raj Koothrappali 029202 4 30 1981
+Stuart Bloom 00203 12 4 1970
+Priya Koothrappali 92019 3 3 1978
+Wil Wheaton 29292 7 29 1972
+Emily Sweeney 37827 5 8 1986 
+Barry Kripke 90023	5 30 1971
+Stephen Hawking 99920 1 8 1942
