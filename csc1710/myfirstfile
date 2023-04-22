@@ -1,0 +1,12 @@
+this is my first file lol.
+it uses vi.
+how do I draw in this?
+
+w saves
+esc returns to command
+q quits without saving
+wq saves and quites
+q! quits w/o saving
+x can delete come command (no : req :)
+dd same as x, but an entire line
+
