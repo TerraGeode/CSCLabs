@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Lab 9: using 3 user defined functions update the sales of members, print their information, and output total profit.
 */

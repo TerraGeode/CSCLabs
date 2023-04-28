@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Program 3: Level 100. Create a game of rock paper scissor lizard spock. Winner is first to 3 wins, ties do not count.
 */

@@ -1,4 +1,4 @@
-/* Felecia Gonzalez
+/* TerraGeode
    main test file for unorderedArrayListType and arrayListType
    to compile: g++ arrayMain.cpp arrayListType.cpp unorderedArrayListType.cpp -o Lab6
    or:         g++ arrayMain.cpp arrayListType.o unorderedArrayListType.o -0 Lab6

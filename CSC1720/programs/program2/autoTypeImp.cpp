@@ -1,5 +1,5 @@
 /*
-   Felecia Gonalez
+   TerraGeode
    ~/csc1720/programs/program2/autoTypeImp.cpp
    About: autoType class implementation
 */

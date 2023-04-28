@@ -1,5 +1,5 @@
-/*  Felecia Gonzalez
-    fgonzalez~/csc1720/programs/program3/GonzalezProgram3.cpp
+/*  TerraGeode
+    TerraGeode~/csc1720/programs/program3/GonzalezProgram3.cpp
     About: Load in a list of names from a file for a raffle.
           Each person can only win once, and each person
           can only have one entry for the grand prize. The

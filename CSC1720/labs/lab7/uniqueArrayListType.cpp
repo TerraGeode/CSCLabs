@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/uniqueArrayListType.cpp
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/uniqueArrayListType.cpp
    implementation file for uniqueArrayListType
 */
 #include <iostream>

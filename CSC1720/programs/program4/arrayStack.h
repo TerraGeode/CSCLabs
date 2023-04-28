@@ -1,7 +1,7 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
+/* TerraGeode
+   Original by: Teacher
    Date: 04/13/2022
-   Path: ~fgonzalez/csc1720/programs/program4/arrayStack.h
+   Path: ~TerraGeode/csc1720/programs/program4/arrayStack.h
    About: Header file for arrayStack
 */
  

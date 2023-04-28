@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Program 4: Secure Message Center: encrypt a message using various shifts, as defined by the user. Shift should only affect letters, not capitalization or punctuation.
    88%: store up to 50 messages, use a key to retrieve and decode any messages that match the key. Also include a menu.

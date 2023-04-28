@@ -1,4 +1,4 @@
-/*Felcia Gonzalez
+/*
 tracing excercise*/
 
 #incude <iostream>

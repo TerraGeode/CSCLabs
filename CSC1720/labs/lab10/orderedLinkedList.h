@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original Author: Dr. Titus
-   Path: ~feleciagonzalez/csc1720/labs/lab10/orderedLinkedList.h
+/* TerraGeode
+   Original Author: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab10/orderedLinkedList.h
    About: header file for ordered linked list
 */
 #ifndef UNORDEREDLINKEDLIST

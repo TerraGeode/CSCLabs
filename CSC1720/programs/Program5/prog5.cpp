@@ -1,6 +1,6 @@
-/*  Felecia Gonzalez
+/*  TerraGeode
     Date: 04/28/2022
-    Path: ~fgonzalez/csc1710/programs/Program5/prog5.cpp
+    Path: ~TerraGeode/csc1710/programs/Program5/prog5.cpp
     About: The goal of this program was to create a guessing game where a user can
           choose between guessing the top cards rank or suit.
     Compilation g++ prog5.cpp -o cards

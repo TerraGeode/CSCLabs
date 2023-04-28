@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    ~/csc1720/programs/program2/autoMain.cpp
    About: test program for autoType and hybridType classes
 

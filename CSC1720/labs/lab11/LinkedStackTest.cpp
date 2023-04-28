@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
-   Path: ~fgonzalez/csc1720/labs/lab11/LinkedStackTest.cpp
+/* TerraGeode
+   Original by: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab11/LinkedStackTest.cpp
    About: Test file for linkedStack
    Compilation: g++ -Wall LinkedStackTest.cpp -o linkedStack
    Execution: ./linkedStack

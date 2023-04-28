@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original Author: Dr. Titus
-   Path: ~feleciagonzalez/csc1720/labs/lab10/linkedList.h
+/* TerraGeode
+   Original Author: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab10/linkedList.h
    About: header file for linked list
 */
 #ifndef LINKED_LIST_TYPE

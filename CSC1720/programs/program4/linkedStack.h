@@ -1,7 +1,7 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
+/* TerraGeode
+   Original by: Teacher
    Date: 04/13/2022
-   Path: ~fgonzalez/csc1720/programs/program4/linkedStack.h
+   Path: ~TerraGeode/csc1720/programs/program4/linkedStack.h
    About: Header file for linkedStack
 */
 

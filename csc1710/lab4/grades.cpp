@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Wei Yong
+/* TerraGeode
    CSC1710-03
    Lab 4: grades.cpp
 */

@@ -1,7 +1,8 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
-   Program 5: max 90%: Start with basic copy of lab 8. Replace regular variables with variables from an imageType and pixel struct. Modify code to store a P3 image as a P6 image. Call a functin (loadImage) which prompts user for an image, add image validation. Add a function that outputs a P6 image file.
+   Program 5: max 90%: Start with basic copy of lab 8. Replace regular variables with variables from an imageType and pixel struct. 
+   Modify code to store a P3 image as a P6 image. Call a functin (loadImage) which prompts user for an image, add image validation. 
+   Add a function that outputs a P6 image file.
 */
 
 #include <iostream>

@@ -1,7 +1,6 @@
 /*
 	CSC-1710-03
-	Name: Felecia Gonzalez
-	Dr. Wei Yong
+	Name: TerraGeode
 	Lab 2
 	File: bills.cpp
 */

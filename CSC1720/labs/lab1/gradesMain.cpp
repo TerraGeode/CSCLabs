@@ -1,7 +1,7 @@
-/* Felecia Gonzalez
-   Dr. Titus
+/* TerraGeode
    CSC1720-01
-   Lab 1 :This lab(originally csc1710 lab 12) will provide practice in using functions to load, process and print 1D and 2D arrays. Modified to have prototypes and definitions separated.
+   Lab 1 :This lab(originally csc1710 lab 12) will provide practice in using functions to load, process and print 1D and 2D arrays. 
+      Modified to have prototypes and definitions separated.
    Lab 1 works on building a multi-file system
    File: main: Execute the main task of the program
 */

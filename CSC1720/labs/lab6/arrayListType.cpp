@@ -1,5 +1,5 @@
-/* Written by Dr. Titus
-   Modified by Felecia Gonzalez
+/* Written by Teacher name
+   Modified by TerraGeode
    arrayListType implemetation file
    to compile : g++ -c arrayListType.cpp
 */

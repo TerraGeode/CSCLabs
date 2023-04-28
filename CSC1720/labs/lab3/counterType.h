@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    CSC1720
    Lab 3 : counterType.cpp
    About/goals:

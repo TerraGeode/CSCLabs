@@ -1,4 +1,4 @@
-/* Felecia Gonalez
+/* 
    Lake Lazy day Ch. 4 exercise */
 
 #include <iostream>

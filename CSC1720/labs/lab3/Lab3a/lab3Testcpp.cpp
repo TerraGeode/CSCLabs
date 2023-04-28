@@ -1,8 +1,7 @@
-/* Name: Felecia Gonzalez
+/* Name: TerraGeode
    Date: 1-10-2021
    Class: CSC-1720
    Location: ~/csc1720/labs/lab3
-   Provided by: Dr. Titus
 
    About: This program tests each component of the counterType class.  The 
    expected output is given in the comments, does your class implementation agree?

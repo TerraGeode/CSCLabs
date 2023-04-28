@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Lab 10: further practice on function writing, function overloading, and default parameters
 */

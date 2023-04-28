@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Lab 8: turn colored P3 ppm images into greyscale P2 pgm images.
 */

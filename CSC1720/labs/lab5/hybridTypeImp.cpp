@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    ~/csc1720/labs/lab5/hybridTypeImp.cpp
    hybridType implementation file
 */

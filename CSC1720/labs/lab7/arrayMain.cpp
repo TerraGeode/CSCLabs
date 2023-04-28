@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/arrayMain.cpp
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/arrayMain.cpp
    main file for uniqueArrayListType
    to compile: g++ arrayMain.cpp uniqueArrayListType.cpp unorderedArrayListType.cpp arrayListType.cpp
    to execute: a.out

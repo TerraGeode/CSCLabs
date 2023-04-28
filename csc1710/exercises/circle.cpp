@@ -1,5 +1,4 @@
 //circle thingy
-//Felecia Gonzalez
 
 #include <iostream>
 

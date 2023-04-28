@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Yong Wei
+/* TerraGeode
    CSC1710-03
    Lab 11: Practice using functions to load, reorganize, and search arrays
 */

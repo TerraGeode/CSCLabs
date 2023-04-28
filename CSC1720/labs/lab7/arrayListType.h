@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/arrayListType.h
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/arrayListType.h
    header file for arrayListType
 */
 #ifndef ArrayList_TYPE

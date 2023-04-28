@@ -1,5 +1,5 @@
-/* Written by Dr. Titus
-   Modified by Felecia Gonzalez
+/* Written by Teacher
+   Modified by TerraGeode
    unorderedArrayListType implementation file
    to compile: g++ -c unorderedArrayListType.cpp
 */

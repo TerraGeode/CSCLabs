@@ -1,5 +1,4 @@
-/* Felecia Gonzalez
-   Dr. Titus
+/* TerraGeode
    CSC1710-03
    Lab 12:This lab will provide practice in using functions to load, process and print 1D and 2D arrays. Modified to have prototypes and definitions separated.
 */

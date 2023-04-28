@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    ~/csc1720/programs/program2/hybrid.h
    About: header file for hybrid class
 */

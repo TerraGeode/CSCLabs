@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
-   Path: ~fgonzalez/csc1720/labs/lab11/stackADT.h
+/* TerraGeode
+   Original by: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab11/stackADT.h
    About: Header file for stackADT
 */
 

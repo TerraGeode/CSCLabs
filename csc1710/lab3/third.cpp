@@ -1,6 +1,5 @@
-/* Felecia Gonzalez
+/* TerraGeode
    CSC1710-03
-   Dr. Wei Yong
    Lab 3
 */
 

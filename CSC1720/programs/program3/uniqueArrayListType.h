@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/programs/program3/uniqueArrayListType.h
+/* TerraGeode
+   TerraGeode~/csc1720/programs/program3/uniqueArrayListType.h
    header file for uniqueArrayListType
 */
 #ifndef uniqueArrayList_TYPE

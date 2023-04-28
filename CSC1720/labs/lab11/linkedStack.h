@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
-   Path: ~fgonzalez/csc1720/labs/lab11/linkedStack.h
+/* TerraGeode
+   Original by: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab11/linkedStack.h
    About: Header file for linkedStack
 */
 

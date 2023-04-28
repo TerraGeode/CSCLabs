@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    CSC1720
    lab 3 counterTypeImp.cpp
 */

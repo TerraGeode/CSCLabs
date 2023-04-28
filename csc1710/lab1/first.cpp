@@ -1,8 +1,7 @@
 /*
-    Name: Felecia Gonzalez
+    Name: TerraGeode
     Date: 8-20-2020 
     Class: csc1710
-    Location of program: /home/faculty/ktitus/hello.cpp
  
     This is the infamous Hello World program. 
 */
@@ -12,7 +11,7 @@ using namespace std;
 int main(void)
 {
  
-   cout << "Felecia Gonzalez" << endl;
+   cout << "TerraGeode" << endl;
    cout << "===========" << endl;
    cout << "Hello World" << endl;
    cout << "===========" << endl;

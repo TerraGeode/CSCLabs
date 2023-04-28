@@ -1,7 +1,7 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
+/* TerraGeode
+   Original by: teacher
    Date: 04/13/2022
-   Path: ~fgonzalez/csc1720/programs/program4/stackADT.h
+   Path: ~TerraGeode/csc1720/programs/program4/stackADT.h
    About: Header file for stackADT
 */
 

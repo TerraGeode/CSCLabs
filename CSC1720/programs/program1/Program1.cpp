@@ -1,7 +1,7 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    CSC1720
-   GonzalezProgram1.cpp
+   Program1.cpp
    About: Store, alphabetize and print the data of a 12 player soccer team. Printing is done before and after sorting
 */
 

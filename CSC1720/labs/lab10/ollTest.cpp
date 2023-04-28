@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original Author: Dr. Titus
-   Path: ~feleciagonzalez/csc1720/labs/lab10/ollTest.cpp
+/* TerraGeode
+   Original Author: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab10/ollTest.cpp
    About: Program to test the various operations on an ordered linked list
    Compilation: g++ -Wall ollTest.cpp -o  testOrdered
    Execution: ./testOrdered

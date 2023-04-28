@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/unorderedArrayListType.cpp
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/unorderedArrayListType.cpp
    implementation file for unorderedArrayListType
 */
 #include <iostream>

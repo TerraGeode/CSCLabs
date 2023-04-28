@@ -1,5 +1,5 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    ~/csc1720/labs/lab4/autoMain.cpp
    About: test program for autoType object
 

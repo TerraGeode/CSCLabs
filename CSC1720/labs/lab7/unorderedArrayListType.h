@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/unorderedArrayListType.h
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/unorderedArrayListType.h
    header file for unorderedArrayListType
 */
 #ifndef UnorderedArrayList_TYPE

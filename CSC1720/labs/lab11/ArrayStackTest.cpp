@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original by: Dr. Titus
-   Path: ~fgonzalez/csc1720/labs/lab11/ArrayStackTest.cpp
+/* TerraGeode
+   Original by: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab11/ArrayStackTest.cpp
    About: Test file for arrayStack
    Compilation: g++ -Wall ArrayStackTest.cpp -o arrayStack
    Execution: ./arrayStack

@@ -1,5 +1,5 @@
-/* Felecia Gonzalez
-   fgonzalez~/csc1720/labs/lab7/arrayListType.cpp
+/* TerraGeode
+   TerraGeode~/csc1720/labs/lab7/arrayListType.cpp
    implementation file for arrayListType
 */
 #include <string>

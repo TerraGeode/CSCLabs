@@ -1,6 +1,6 @@
-/* Felecia Gonzalez
-   Original Author: Dr. Titus
-   Path: ~feleciagonzalez/csc1720/labs/lab10/ullTest.cpp
+/* TerraGeode
+   Original Author: Teacher
+   Path: ~TerraGeode/csc1720/labs/lab10/ullTest.cpp
    About: This program tests various operations of an unordered linked list
    Compilation: g++ -Wall ullTest.cpp -o  testUnordered
    Execution: ./testUnordered

@@ -1,8 +1,8 @@
-/*  Felecia Gonzalez
+/*  TerraGeode
     Date: 04/13/2022
     About: This program allows a user to convert a binary number to a decimal 
           number and vice versa.
-    Path: ~fgonzalez/csc1720/programs/program4/prog4.cpp
+    Path: ~TerraGeode/csc1720/programs/program4/prog4.cpp
     Compilation: g++ -Wall prog4.cpp -o prog4
     Execution: ./prog4
 */

@@ -1,10 +1,10 @@
 /*
-   Felecia Gonzalez
+   TerraGeode
    CSC 1720
-   GonzalezLab2.cpp
+   Lab2.cpp
    About: Store data of up to 50 people. 
     Find and print the data of all people with a matching searched age.
-   Copilation: g++ GonzalezLab2.cpp
+   Copilation: g++ Lab2.cpp
 */
 
 #include <iostream>
