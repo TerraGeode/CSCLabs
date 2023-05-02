@@ -1,5 +1,5 @@
 /*
-   Team members: Joellen A, Mia G, Felecia G, Alex H.
+   Team members: J.A, M.G, TerraGeode, A.H.
    Date: 03/01/2023
    Description: This project is a team based work. We are to implement six sorting 
       algorithms: selection sort, bubble sort, insertion sort, merge sort, quicksort,
@@ -20,24 +20,24 @@
 
 using namespace std;
 
-//struct used by Felecia
+//struct used by TerraGeode
 struct heap {
    int *S;
    int heapsize;
 };
 
-//sorts by Joellen
+//sorts by J.A.
 void insertionSort(int s[], int n, unsigned int& counter);
 void bubbleSort(int s[], int n, unsigned int& counter);
-//sorts by Mia
+//sorts by M.G
 void selectionSort(int S[], int n, unsigned int& counter);
-//sorts by Alex
+//sorts by A.H.
 void exchange(int& a, int& b, unsigned int &c);
 void partition (int arr[], int low, int high, int& pivotpoint, unsigned int &c);
 void quicksort (int arr[], int low, int high, unsigned int &c);
 void mergeSort (int n, int S[], unsigned int &c2);
 void merge2 (int h, int m, const int U[], const int V[], int S[], unsigned int &c2);
-//sorts by Felecia
+//sorts by TerraGeode
 void siftDown(heap &H, int i, unsigned int &counter);
 int root(heap &H, unsigned int &counter);
 void removeKeys(int n, heap &H, int arr[], unsigned int &counter);
